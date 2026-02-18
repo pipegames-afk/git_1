@@ -1,0 +1,26 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dato.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node dato.js",
+    "dev": "nodemon dato.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipegames-afk/git_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipegames-afk/git_1/issues"
+  },
+  "homepage": "https://github.com/pipegames-afk/git_1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
